@@ -10,5 +10,5 @@ Notebook files can be run inside a docker container as follows :
 
 Screenshots..
 
-![Alt text](/relative/path/to/img.jpg?raw=true "taxonomy-avg-available-price.png")
-![Alt text](/relative/path/to/img.jpg?raw=true "taxonomy.png")
+![Alt text](taxonomy-avg-available-price.png?raw=true)
+![Alt text](taxonomy.png?raw=true)
